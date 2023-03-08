@@ -1,4 +1,4 @@
-# Bayes_projet
+# Seeds-Random effect logistic regression
 Il s'agit d'une mission R de Clément, Diego, Razan, Zihao.
 
 ## !!! Étapes nécessaires à l'utilisation !!! 
